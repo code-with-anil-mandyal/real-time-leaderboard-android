@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BattleBucksLeaderboardAssignment</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="dummy_current_user">Anil</string>
+    <string name="trophy_leaderboard">🏆 Leaderboard</string>
+    <string name="genesis_season">Genesis Season</string>
+    <string name="trophy">🏆</string>
+    <string name="fire">🔥</string>
+    <string name="fire_leaderboard">🔥 Leaderboard</string>
+    <string name="_2100">" 2100"</string>
+    <string name="_718_rank">#718 Rank</string>
+    <string name="rank">Rank</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="legends">LEGENDS</string>
+</resources>
