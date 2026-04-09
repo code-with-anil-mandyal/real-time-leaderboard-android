@@ -79,6 +79,28 @@ presentation
   
 ---
 
+# 🧩 Module Responsibilities
+
+**Score Generator**
+- Generates live score updates
+- Simulates game backend
+- Emits updates using Flow
+
+**Leaderboard Repository**
+- Consumes score updates
+- Applies ranking logic
+- Emits leaderboard state
+
+**ViewModel**
+- Collects leaderboard updates
+- Exposes UI state
+
+**UI**
+- Displays real-time leaderboard
+- Handles animations and interactions
+
+---
+
 # ⚙️ Tech Stack
 
 * Kotlin
