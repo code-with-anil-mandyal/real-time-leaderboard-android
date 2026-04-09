@@ -30,9 +30,11 @@ This project simulates a **live gaming leaderboard** where player scores update 
 <td align="center"><b>Collapsed</b></td>
 </tr>
 
+
+
 <tr>
-<td><img src="https://github.com/user-attachments/assets/7b3a1626-f076-429f-9bd8-a10eecb8a1f5" width="250"/></td>
-<td><img src="https://github.com/user-attachments/assets/f64c95c6-a459-43ed-a882-a1de0915c585" width="250"/></td>
+<td><img src="https://github.com/user-attachments/assets/4b06a356-c0b0-419d-aa9e-acf6d0eaa458" width="250"/></td>
+<td><img src="https://github.com/user-attachments/assets/bf801854-0c67-4f57-90ad-cbd63dbfe6d8" width="250"/></td>
 </tr>
 
 </table>
